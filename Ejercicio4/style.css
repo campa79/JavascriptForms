@@ -1,0 +1,38 @@
+body
+	{
+	background-color:#848484;
+	}
+
+h1	{
+	font-family:"Verdana", "Lucida Sans Unicode", sans-serif;
+	color:#8D41FD;
+	}
+
+span{
+	color:#000000;
+	font-size: 18px;
+	}
+
+td{
+width: 150px;
+text-align: center;
+}
+
+select
+	{
+	background-color: #000000;
+	color:#F7FE2E;
+	}
+
+input
+	{
+	text-align: center;
+	background-color: #000000;
+	color:#FFFFFF;
+	}
+
+.boton
+	{
+	text-align: center;
+	margin-top: 20px;
+	}

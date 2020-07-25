@@ -1,0 +1,45 @@
+body{
+	background-color:#FAFAFA;
+	}
+
+h1	{
+	font-family:"Verdana", "Lucida Sans Unicode", sans-serif;
+	color:#33D0B3;
+	text-align: center;
+	}
+
+span{
+	font-family:"Verdana", "Lucida Sans Unicode", sans-serif;
+	color:#0B0B61;
+	font-size: 20px;
+	text-align: center;
+	margin-left: 10px;
+	}
+
+td {
+	width: 150px;
+	text-align: center;
+	}
+
+select
+	{
+	background-color: #000000;
+	color:#F7FE2E;
+	}
+
+option
+	{
+	margin-left: 5px;
+	}
+
+input
+	{
+	text-align: center;
+	background-color: #000000;
+	color:#FFFFFF;
+	}
+
+.boton{
+text-align: center;
+margin-top: 20px;
+}

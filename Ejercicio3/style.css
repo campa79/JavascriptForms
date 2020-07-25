@@ -1,0 +1,32 @@
+body
+	{
+	background-color:#D8D8D8;
+	}
+
+h1	{
+	font-family:"Verdana", "Lucida Sans Unicode", sans-serif;
+	}
+
+span{
+	color:#5C73C3;
+	font-size: 18px;
+	}
+
+tr  {
+	height: 30px;
+	}
+
+td  {
+	width: 150px;
+	}
+
+input
+	{
+	text-align: center;
+	}
+
+.boton
+	{
+	text-align: center;
+	margin-top: 20px;
+	}

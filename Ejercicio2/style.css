@@ -1,0 +1,52 @@
+body
+	{
+	background-color:#A9BCF5;
+	}
+
+h1	{
+	text-align: center;
+	color: #000000;
+	font-family:"Verdana", "Lucida Grande", sans-serif;
+	}
+
+span{
+	color:#FFFFFF;
+	font-size: 18px;
+	}
+
+li  {
+	color:#FF006E;
+	}
+
+li span
+	{
+	color:#000000;
+	}
+
+table
+	{
+	text-align: left;
+	}
+
+input
+	{
+	text-align: center;
+	background-color:#FFFFFF;
+	}
+
+table span 
+	{
+	margin-right: 10px;
+	}
+
+.boton input
+	{
+	background-color:#FFFFFF;
+	}
+
+.boton
+	{
+	text-align: center;
+	margin-top: 20px;
+	}
+
